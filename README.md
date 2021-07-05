@@ -1,4 +1,4 @@
 # Narative-Economy
-Narative Economy | NLP| Text Mining | Sentimental Analysis | OLS Regression | Yield Curves | ECB| Comunicarion
+Narative Economy | NLP| Text Mining | Sentimental Analysis | OLS Regression | Yield Curves | ECB | Comunication
 
  ![text](https://github.com/jyanqa/Narative-Economy/blob/main/Diagram.png)
